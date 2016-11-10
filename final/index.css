@@ -1,0 +1,21 @@
+body {
+  font-family: Helvetica;
+  background-color: #e67e22;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+#profile-pic{
+  max-width: 90px;
+}
+
+#profile-pic{
+  margin: 10px;
+}
+
+.section {
+  margin: 10px;
+}
