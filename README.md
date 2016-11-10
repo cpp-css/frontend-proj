@@ -1,6 +1,6 @@
 # frontend-proj
-CSS General Meeting Demo - 11/10/16 : Build a fieri website!
-Web development is one of the best ways to get started building products that other people can use. We will learn about frontend web development through two projects. The first project will be a simple personal website to introduce the basics of HTML and CSS. The second project, text-sim, is a website that allows you to compute the percentage similarity between two text documents. It will focus on the interplay between the three languages but will primarily focus on Javascript. I hope this brief introduction inspires you to learn more about the wonderful world of the web!
+CSS General Meeting Demo - 11/10/16 : Build a fieri website and text comparer.
+Web development is one of the best ways to get started building products that other people can use. We will learn about frontend web development through two projects. The first project will be a simple personal website to introduce the basics of HTML and CSS. The second project, comparetext, is a website that allows you to compute the percentage similarity between two text documents. It will focus on the interplay between the three languages but will primarily focus on Javascript. I hope this brief introduction inspires you to learn more about the wonderful world of the web!
 
 ## Requirements
 
