@@ -8,10 +8,6 @@ Web development is one of the best ways to get started building products that ot
 
 * Text editor (Recommended: Sublime Text 3, Atom, Notepad++, Visual Studio Code, vim)
 
-## Cloning this repository
-
-* If you have `git` then please run `git clone https://github.com/HackBerkeley/calhacks3-intro-web-dev.git`
-
 * If you don't have `git` then please download the repository
 
 ## Usage
